@@ -1,2 +1,2 @@
-# ML
+# Machine Learning
 Decision Tree
